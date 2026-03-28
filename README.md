@@ -8,11 +8,13 @@ My Tools:
 
 Data Cleaning & SQL	- PostgreSQL, MySQL
 
-Visualization -	Tableau, Excel Charts, Dashboard Design
+Visualization -	Tableau & Excel Charts
 
-Analysis - Python (Pandas, NumPy), Statistical Analysis
+Analysis - Python (Pandas, NumPy), Excel, SQL, Statistical Analysis
 
 Spreadsheets - Excel, Google sheets
+
+If you'd like to see more of my work or contact me, I'd love to connect, collaborate, or hear your thoughts on my work. Feel free to reach out!
 
 
 <!--
