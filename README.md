@@ -10,7 +10,7 @@ Data Cleaning & SQL	- PostgreSQL, MySQL
 
 Visualization -	Tableau & Excel Charts
 
-Analysis - Python (Pandas, NumPy), Excel, SQL, Statistical Analysis
+Analysis - Python (Pandas, NumPy)- Jupyter Notebook, Excel, SQL, Statistical Analysis
 
 Spreadsheets - Excel, Google sheets
 
