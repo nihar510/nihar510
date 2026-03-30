@@ -8,7 +8,7 @@ My Tools:
 
 Data Cleaning & SQL	- PostgreSQL, MySQL
 
-Visualization -	Tableau & Excel Charts
+Visualization -	Tableau & Excel Charts, Power BI(basics)
 
 Analysis - Python (Pandas, NumPy)- Jupyter Notebook, Excel, SQL, Statistical Analysis
 
